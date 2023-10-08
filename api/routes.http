@@ -1,0 +1,2 @@
+# @name Send Mail
+POST http://localhost:3000/matheushlg10@gmail.com
